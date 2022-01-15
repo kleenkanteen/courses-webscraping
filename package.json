@@ -1,0 +1,26 @@
+{
+  "name": "courses-webscraping",
+  "version": "1.0.0",
+  "description": "A script to extract and store all courses info from student.utm.utoronto/timetable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kleenkanteen/courses-webscraping.git"
+  },
+  "keywords": [
+    "web",
+    "scraping"
+  ],
+  "author": "Sabih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kleenkanteen/courses-webscraping/issues"
+  },
+  "homepage": "https://github.com/kleenkanteen/courses-webscraping#readme",
+  "dependencies": {
+    "puppeteer-core": "^13.0.1"
+  }
+}
